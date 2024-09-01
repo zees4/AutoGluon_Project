@@ -11,4 +11,5 @@ https://github.com/zees4/AutoGluon_Project/blob/main/TestAutoGluon_Final.ipynb
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/code?datasetId=1067&sortBy=voteCount
 
 ## Full report
+https://dspace.uii.ac.id/handle/123456789/48182
 https://drive.google.com/drive/folders/14yDR0fpctALowpW6N--2JaH472e5Ofu-?usp=sharing
